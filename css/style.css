@@ -14,8 +14,8 @@ body{
     background-color: #003679;
 }
 .circle {
-    width: 400px;
-    height: 400px;
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
     margin: 2rem auto;
     background-color: white;
